@@ -1,1 +1,11 @@
-weight/GameQNet*
+# Trained networks (save your own with "Save Network")
+weight/*.wgt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
